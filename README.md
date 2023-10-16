@@ -1,6 +1,6 @@
 # About Andrew :smile:
 
-Hi there! My name is Andrew and I am a 22-year-old software programmer from Luton, England. I specialize in PHP and Java, but I also have experience with C#.
+Hi there! My name is Andrew and I am a 23-year-old software programmer from Luton, England. I specialize in PHP and Java, but I also have experience with C#.
 
 I am passionate about open source projects and I enjoy contributing to them in my spare time. In the past, I have worked on a variety of projects, including a PHP web application and a Java command-line tool.
 
@@ -8,7 +8,7 @@ In my professional life, I currently work as a support engineer at GitLab. I am 
 
 ## Connect with me
 
-You can connect with me on LinkedIn by clicking [here](https://www.linkedin.com/in/andrew-aubury-7a82b21b0/).
+You can connect with me on LinkedIn by clicking [here](https://www.linkedin.com/in/andrew-aubury).
 
 Here are a few nerdy jokes to add some fun to the readme:
 

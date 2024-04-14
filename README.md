@@ -4,7 +4,7 @@ Hi there! My name is Andrew and I am a 23-year-old software programmer from Luto
 
 I am passionate about open source projects and I enjoy contributing to them in my spare time. In the past, I have worked on a variety of projects, including a PHP web application and a Java command-line tool.
 
-In my professional life, I currently work as a support engineer at GitLab. I am always looking for new challenges and opportunities to learn and grow as a programmer. I believe that collaboration and sharing knowledge are key to success in the tech industry, and I try to embody these values in my work :nerd_face:
+In my professional life, I currently work as a SOC engineer at Cloudflare. I am always looking for new challenges and opportunities to learn and grow as a programmer. I believe that collaboration and sharing knowledge are key to success in the tech industry, and I try to embody these values in my work :nerd_face:
 
 ## Connect with me
 

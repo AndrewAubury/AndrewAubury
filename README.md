@@ -1,6 +1,6 @@
 # About Andrew :smile:
 
-Hi there! My name is Andrew and I am a 23-year-old software programmer from Luton, England. I specialize in PHP and Java, but I also have experience with C#.
+Hi there! My name is Andrew and I am a 25-year-old software programmer from Luton, England. I specialise in PHP and Java, but I also have experience with GoLang and C#.
 
 I am passionate about open source projects and I enjoy contributing to them in my spare time. In the past, I have worked on a variety of projects, including a PHP web application and a Java command-line tool.
 
